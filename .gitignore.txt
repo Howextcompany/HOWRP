@@ -1,0 +1,4 @@
+!.conf.json
+!.Settings.db
+!.\bridge\server_logs.txt
+!.\bridge\server_exceptions.txt
